@@ -1,0 +1,8 @@
+.btn-close.active.focus,
+.btn-close.active:focus,
+.btn-close.focus,
+.btn-close:active.focus,
+.btn-close:active:focus,
+.btn-close:focus {
+  box-shadow: none !important;
+}
